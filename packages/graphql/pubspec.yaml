@@ -15,7 +15,7 @@ dependencies:
   hive: ^2.1.0
   normalize:
     git:
-      url: https://github.com/yuraware/ferry.git
+      url: git@github.com:yuraware/ferry.git
       path: packages/normalize
   http: ^0.13.0
   collection: ^1.15.0
